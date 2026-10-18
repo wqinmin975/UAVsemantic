@@ -1,0 +1,3 @@
+[
+  {"loc": "Nomenclature lambda_R row", "before": "| λ_1, λ_2, λ_E | Reward weights for bit cost, latency, and energy |", "after": "| λ_1, λ_2, λ_E | Reward weights for bit cost, latency, and energy |\n| λ_R | Recall-aware reward weight introduced in the corrected design |"}
+]
